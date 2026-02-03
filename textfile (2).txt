@@ -1,0 +1,13 @@
+{
+  "prompt": "A young woman with long red hair stands at a nighttime street food stall in a busy city, biting into a skewer of grilled food. She is wearing an orange lace-up crop top, a matching mini skirt, and knee-high boots, with sunglasses resting on her head. Neon lights, food carts, and pedestrians fill the background. The scene feels lively and urban with a casual, playful mood. Shallow depth of field, cinematic street photography, vibrant colors, ultra-realistic detail, natural candid pose.",
+  "style": "photorealistic",
+  "lighting": "nighttime ambient lighting with warm food stall lights",
+  "camera": {
+    "type": "DSLR",
+    "lens": "35mm",
+    "aperture": "f/1.8"
+  },
+  "composition": "three-quarter body shot, eye-level angle",
+  "environment": "busy city street food market at night",
+  "quality": "high resolution, sharp focus, professional photography"
+}
